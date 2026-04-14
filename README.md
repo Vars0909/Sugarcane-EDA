@@ -1,4 +1,4 @@
-# Sugarcane-EDA
+# EDA on Suagrcane Production Data
 GLOBAL SUGARCANE PRODUCTION ANALYSIS(EDA)
 
 This project presents an Exploratory Data Analysis (EDA) of global sugarcane production data to understand worldwide agricultural trends, country-wise performance, and production efficiency.

@@ -1,6 +1,7 @@
 # Sugarcane-EDA
-This project presents an Exploratory Data Analysis (EDA) of global sugarcane production data to understand worldwide agricultural trends, country-wise performance, and production efficiency.
+GLOBAL SUGARCANE PRODUCTION ANALYSIS(EDA)
 
+This project presents an Exploratory Data Analysis (EDA) of global sugarcane production data to understand worldwide agricultural trends, country-wise performance, and production efficiency.
 The analysis focuses on identifying key producing countries, growth patterns, and the relationship between cultivation area, production, and yield across the globe.
 
 🎯 Objectives :
@@ -29,6 +30,5 @@ Jupyter Notebook
 🔍 Key Analysis Performed :
 ✔ Data Cleaning (handled missing values & duplicates)
 ✔ Country-wise production comparison
-✔ Time series analysis (global production trends)
 ✔ Correlation analysis between area, yield, and production
 ✔ Outlier detection and distribution analysis
